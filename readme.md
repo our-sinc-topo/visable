@@ -1,4 +1,4 @@
-# visable![Science of Where](https://media.licdn.com/media/AAEAAQAAAAAAAAxMAAAAJGU5OTMyZjM3LWQyYmQtNGNmZC1hOWFmLWMyOTk0ZWM5MzhhZA.png)
+# visable
 
 ## Description
 Created as part of the Esri intern hackathon and earning the 1st Place Award, this is a Chrome browser extension that parses out geographic locations in your active tab and lets you visualize them on a WebGL globe using Esri's JavaScript API. It is intended to visually contextualize page content and enhance geoliteracy with minimal overhead by seamlessly integrating into your daily workflow in Chrome.
@@ -35,3 +35,5 @@ _Our Sincerest Topologies_:
 * [NLTK](http://www.nltk.org/) - Python natural language processing platform to perform geoparsing
 * [Flask](http://flask.pocoo.org/) - Web microframework to host Python programs
 * [ngrok](https://ngrok.com/) - Serve localhost Flask server for initial demo purposes
+
+![Science of Where](https://media.licdn.com/media/AAEAAQAAAAAAAAxMAAAAJGU5OTMyZjM3LWQyYmQtNGNmZC1hOWFmLWMyOTk0ZWM5MzhhZA.png)
