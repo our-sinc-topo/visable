@@ -1,5 +1,4 @@
-# Esri Intern Hackathon Project
-![Esri Logo](http://mms.businesswire.com/media/20170317005158/en/570118/4/esri_logo17.jpg)
+# Esri Intern Hackathon Project ![Esri Logo](http://mms.businesswire.com/media/20170317005158/en/570118/4/esri_logo17.jpg)
 
 ## Team Name & Members:
 _Our Sincerest Topologies_:
