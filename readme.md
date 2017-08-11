@@ -15,7 +15,7 @@ _Our Sincerest Topologies_:
 * __Ankur Rastogi__: NLTK setup, customization, and Flask web microframework
 
 ## Installation Instructions
-1) Either download & extract, or simply clone this repo to your computer using `git clone <repository name here>`.
+1) Either download & extract (as a .zip), or simply clone this repo to your computer using `git clone https://github.com/our-sinc-topo/visable.git`.
 2) Type `chrome://extensions` in your Chrome browser's URL bar and hit enter.
 3) Check `Developer Mode` in the upper right hand corner of the extensions page.
 4) Hit `Load unpacked extension...` on the upper left hand side.
