@@ -38,7 +38,7 @@ function onPopupLoad()
 			// jQuery POST call to NLP server for geoparsing
 			$.ajax(
 			{
-			  url         : "https://7c27de3a.ngrok.io/jsonItems",
+			  url         : "http://arastogi.pythonanywhere.com/jsonItems",
 			  type        : "POST",
 			  data        : JSON.stringify({"Text" : pageContent}),
 			  contentType : 'application/json',
